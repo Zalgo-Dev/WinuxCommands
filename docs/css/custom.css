@@ -1,0 +1,6 @@
+.drac-text-black a {
+    display: none;
+}
+.drac-text-black:after {
+    content: 'By Zalgo-Dev with Dracula Thèmes';
+}
